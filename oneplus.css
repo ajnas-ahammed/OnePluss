@@ -1,0 +1,1943 @@
+.container{
+    display: flex;
+}
+
+.div1{
+    width: 20%;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 2px solid;
+    border-color: rgb(217, 216, 216);
+    margin-bottom: 10px;
+    margin-left: ; 
+
+    
+}
+
+.div2{
+    width: 71%;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 2px solid;
+    border-color: rgb(217, 216, 216);
+    margin-bottom: 25px;
+    margin-right: 0px;
+}
+.div3{
+    width: 20%;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 2px solid;
+    border-color: rgb(217, 216, 216);
+    margin-bottom: 25px;
+    margin-right: 20px;
+    margin-left: 0%;
+}
+
+
+
+.div22{
+    width: 1512px;
+    height: 623px;
+    background-color: grey;
+    margin-top: -427px;
+    margin-left: -8px;
+}
+
+
+.div23{
+    width: 100%;
+    height: 623px;
+    background-color: grey;
+    margin-top: 111px;
+
+}
+
+
+.div24{
+    width: 100%;
+    height: 1473px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 15px;
+}
+
+
+
+
+.div25{
+    width: 100%;
+    height: 1000px;
+    background-color: black;
+}
+
+.div26{
+    width: 100%;
+    height: 1509px;
+    background-color: rgb(0, 0, 0);
+}
+
+.div27{
+    width: 100%;
+    height: 647px;
+    background-color: rgb(255, 255, 255);
+    
+}
+.div28{
+    width: 101%;
+    margin-top: 37px;
+    height: 1217px;
+    background-color: rgb(0, 0, 0);
+    margin-left: -8px;
+}
+
+.div555{
+    width: 1516px;
+    height: 640px;
+    background-color: #f0f0f0;
+    margin-top: -433px;
+    margin-left: -5px;
+}
+
+.supportt{
+    margin-top: 140px;
+    margin-left: 106px;
+    color: #010101;
+    font-size: 18px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+}
+
+
+
+
+
+
+
+
+
+
+.st{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(110, 110, 110);
+    margin-top: 5px;
+    margin-left: 4px;
+}
+
+
+.instant{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: black;
+    margin-top: 16px;
+    margin-left: 1147px;
+    margin-bottom: -14px;
+    font-size: 17px;
+}
+
+
+
+
+
+
+
+
+
+.open{
+    margin-left: 64px;
+    margin-top: -569px;
+    
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(253, 253, 253);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 1cm;
+    margin-bottom: 0%;
+}
+
+
+
+
+
+.img{
+    height: 20px;
+    width: 83px;
+    margin-left: 65px;
+    margin-top: 14px;
+
+    
+}
+.img2{
+    height: 30px;
+    width: 31px;
+    margin-left: 150px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(255, 255, 255);
+}
+.img3{
+    height: 446px;
+    width: 264px;
+    margin-left: 634px;
+    margin-top: 125px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.imgcart{
+    height: 23px;
+    width: 23px;
+    margin-top: 16px;
+    margin-left: 139px;
+}
+
+.threephonepic{
+    width: 100%;
+    height: 623px;
+
+}
+.buds{
+    width: 100%;
+    height: 623px;
+    
+    
+}
+
+
+
+.button{
+    color: rgb(0, 0, 0);
+    background-color:rgb(253, 253, 253) ;
+    margin-left: 70px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    border-color: transparent;
+    margin-top: 15px;
+    margin-right: 10px;
+    font-size: 14px
+    
+
+}
+
+
+.button33{
+    color: rgb(0, 0, 0);
+    background-color:transparent ;
+    margin-left: 12px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    border-color: transparent;
+    margin-top: 15px;
+    margin-right: 10px;
+    font-weight: 100px;
+    font-size: 14px
+
+}
+.button44{
+    color: rgb(0, 0, 0);
+    background-color:transparent ;
+    margin-left: 20px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    border-color: transparent;
+    margin-top: 15px;
+    margin-right: 10px;
+    font-weight: 100px;
+    font-size: 14px
+
+}
+.button55{
+    color: rgb(0, 0, 0);
+    background-color:transparent ;
+    margin-left: 15px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    border-color: transparent;
+    margin-top: 15px;
+    margin-right: 10px;
+    font-weight: 100px;
+    font-size: 14px
+
+}
+.button66{
+    color: rgb(0, 0, 0);
+    background-color:transparent ;
+    margin-left: 16px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    border-color: transparent;
+    margin-top: 15px;
+    margin-right: 10px;
+    font-weight: 100px;
+    font-size: 14px
+
+}
+.button77{
+    color: rgb(0, 0, 0);
+    background-color:transparent ;
+    margin-left: 17px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    border-color: transparent;
+    margin-top: 15px;
+    margin-right: 10px;
+    font-weight: 100px;
+    font-size: 14px
+
+}
+.button88{
+    color: rgb(0, 0, 0);
+    background-color:transparent ;
+    margin-left: 18px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    border-color: transparent;
+    margin-top: 15px;
+    margin-right: 10px;
+    font-weight: 100px;
+    font-size: 14px
+
+}
+.button99{
+    color: rgb(0, 0, 0);
+    background-color:transparent ;
+    margin-left: 18px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    border-color: transparent;
+    margin-top: 15px;
+    margin-right: 10px;
+    font-weight: 100px;
+    font-size: 14px
+
+}
+.button2{
+    color: rgb(0, 0, 0);
+    background-color:transparent ;
+    margin-left: 20px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    border-color: transparent;
+    margin-top: 15px;
+    margin-right: 10px;
+    border-radius: 0%;
+    font-size: 14px
+
+
+}
+.button3{
+    height: 30px;
+    width: 70px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    margin-left: 250px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    border-color: transparent;
+    margin-top: -7px;
+    margin-right: 10px;
+    border-radius: 0%;
+    font-size: 14px
+}
+.button3:hover{
+    background-color: rgb(56, 56, 56);
+    
+}
+.button4{
+    height: 30px;
+    width: 70px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    margin-left: 0px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    border-color: transparent;
+    margin-top: -7px;
+    margin-right: 10px;
+    border-radius: 0%;
+
+}
+.button4:hover{
+    background-color: rgb(56, 56, 56);
+    
+}
+.button7{
+    background-color: rgb(255, 255, 255);
+    height: 0px;
+    width: 260px;
+    border: 0cap;
+    
+}
+.button8{
+    background-color: transparent;
+    height: 0px;
+    width: 260px;
+    border: 0cap;
+    
+}
+
+.head1{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: black;
+    margin-top: 210px;
+    margin-left: 210px;
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 1cm;
+    margin-bottom: 0%;
+    
+    
+
+}
+.OneP12R{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: black;
+    margin-top: -288px;
+    margin-left: 1098px;
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 1cm;
+    margin-bottom: 0%;
+
+}
+.head2{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: black;
+    margin-top: 15px;
+    margin-left: 157px;
+    margin-bottom: -14px;
+    font-size: 17px
+    
+    
+}
+.head3{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(0, 0, 0);
+    margin-top: 384px;
+    margin-left: -32px;
+    font-weight: normal;
+    font-size: 1cm;
+    margin-bottom: 0%
+    
+}
+
+.newhead{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: black;
+    margin-top: 15px;
+    margin-left: 255px;
+    margin-bottom: -14px;
+    font-size: 17px;
+
+}
+.head2t2{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: black;
+    margin-top: 15px;
+    margin-left: 291px;
+    margin-bottom: 10px;
+
+}
+.head2t3{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(110, 110, 110);
+    margin-top: 5px;
+    margin-left: 226px;
+
+}
+
+
+.head3t1{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: black;
+    margin-top: 15px;
+    margin-left: -80px;
+    margin-bottom: 0px;
+}
+
+
+
+.head3t3{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(110, 110, 110);
+    margin-top: 8px;
+    margin-left: 10px;
+
+}
+
+
+.learnmore{
+    color: rgb(45, 45, 45);
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    height: 2px;
+    width: 10px;
+    font-size: small;
+}
+
+.learnmore:hover{
+    color: rgb(74, 74, 255);
+}
+
+
+.learnmore2{
+    color: rgb(45, 45, 45);
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    height: 10px;
+    width: 20px;
+    font-size: small;
+}
+
+.learnmore2:hover{
+    color: rgb(74, 74, 255);
+}
+
+
+
+
+
+
+
+
+.freebuds{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: black;
+    margin-top: 0px;
+    margin-left: -36px;
+    margin-bottom: 0px;
+
+}
+
+.fromprice{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(255, 255, 255);
+    margin-top: 342px;
+    margin-left: 63px;
+    margin-bottom: -14px;
+    font-size: 17px;
+    
+}
+.frompricegrey{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(255, 255, 255);
+    margin-top: 15px;
+    margin-left: 157px;
+    margin-bottom: -14px;
+    font-size: 17px
+}
+
+.cut1{
+    color: grey;
+    margin-left: 3px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+}
+.instantly{
+    color: aliceblue;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+
+    margin-left: 63px;
+    margin-bottom: 0%;
+}
+.trade{
+    color: aliceblue;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 63px;
+    margin-top: 3px;
+
+}
+
+.buynow222{
+    width: 127px;
+    height: 31px;
+    margin-top: -1px;
+    margin-left: 63px;
+    border-radius: 4px;
+}
+.buynow222:hover{
+    background-color: rgb(215, 215, 215);
+}
+
+
+.learnmore3{
+    color: rgb(255, 255, 255);
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 10px;
+    margin-top: -27px;
+    font-size: small;
+}
+
+.learnmore3:hover{
+    color: rgb(74, 74, 255);
+}
+.perfectionn{
+    color: #bfbfb4;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 63px;
+    margin-top: -566px;
+
+}
+.buds3pro{
+    margin-left: 64px;
+    margin-top: -569px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 1cm;
+    margin-top: 3px;
+    margin-left: 63px;
+    
+}
+.from3{
+    color: aliceblue;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 63px;
+    margin-top: 347px;
+    margin-bottom: 0%;
+
+}
+.cut2{
+    color: grey;
+    margin-left: 7px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    
+}
+.student{
+    color: aliceblue;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 63px;
+    margin-top: 5px;
+
+}
+
+.buynow33{
+    width: 127px;
+    height: 31px;
+    margin-top: -1px;
+    margin-left: 63px;
+    border-radius: 4px;
+}
+.buynow33:hover{
+    background-color: rgb(215, 215, 215);
+}
+
+
+.learnmore4{
+    color: rgb(255, 255, 255);
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 10px;
+    margin-top: -22px;
+    font-size: small;
+}
+
+.learnmore4:hover{
+    color: rgb(74, 74, 255);
+}
+
+
+.hotsale{
+
+    color: #717471;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 102px;
+    margin-top: 58px;
+    font-size: larger;
+}
+
+.OnePlusPad2{
+    width: 652px;
+    height: 405px;
+    margin-top: 19px;
+    margin-left: 108px;
+    
+}
+.LifeSmooth{
+    color: rgb(45, 45, 45);
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    font-size: 14px;
+    margin-top: -385px;
+    margin-left: 128px;
+
+}
+.OnePluPad2{
+    margin-left: 64px;
+    margin-top: -569px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 1cm;
+    margin-top: 3px;
+    margin-left: 126px;
+
+}
+
+.fromprice4{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(0 0 0);
+    margin-top: -31px;
+    margin-left: 130px;
+    margin-bottom: -14px;
+    font-size: 17px;
+}
+
+.padd{
+    width: 652px;
+    height: 405px;
+    margin-top: -106px;
+    margin-left: 784px;
+}
+
+.SmoothWithout{
+    color: rgb(45, 45, 45);
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    font-size: 14px;
+    margin-top: -385px;
+    margin-left: 808px;
+}
+
+.onepluspadd{
+   
+    margin-top: -569px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 1cm;
+    margin-top: 3px;
+    margin-left: 805px;
+}
+
+.fromprice5{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(0 0 0);
+    margin-top: -31px;
+    margin-left: 812px;
+    margin-bottom: -14px;
+    font-size: 17px;
+}
+
+.savefree1{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(0 0 0);
+    margin-top: 305px;
+    margin-left: 126px;
+    margin-bottom: -14px;
+    font-size: 10px;
+}
+.savefree2{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(0 0 0);
+    margin-top: 3px;
+    margin-left: 803px;
+    margin-bottom: -14px;
+    font-size: 10px;
+}
+.nord{
+    width: 652px;
+    height: 405px;
+    margin-top: 63px;
+    margin-left: 108px;
+}
+.smallprice{
+    color: rgb(45, 45, 45);
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    font-size: 14px;
+    margin-top: -385px;
+    margin-left: 128px;
+}
+.Nor5G{
+    margin-left: 64px;
+    margin-top: -569px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 1cm;
+    margin-top: 3px;
+    margin-left: 126px;
+}
+.storee{
+    width: 652px;
+    height: 405px;
+    margin-top: 63px;
+    margin-left: 108px;
+}
+
+.redcable{
+    width: 652px;
+    height: 405px;
+    margin-top: -404px;
+    margin-left: 784px;
+
+}
+
+.currentcommunity{
+    color: #ffffff;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 102px;
+    margin-top: 120px;
+    font-size: larger;
+}
+
+.line2{
+    color: #a5a5a5;
+    margin-top: -913px;
+    margin-left: 101px;
+
+}
+.joinus{
+    color: rgb(255, 255, 255);
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 1339px;
+    margin-top: -56px;
+    font-size: 15px;
+
+}
+
+.plus{
+    color: rgb(255, 0, 0);
+    
+    margin-left: 1400px;
+    margin-top: -42px;
+    font-size: 26px;
+
+}
+
+.innovation{
+    color: #ffffff;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 102px;
+    margin-top: 72px;
+    font-size: 48px;
+    margin-bottom: 0%;
+}
+
+.innovation2{
+    color: #ffffff;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 102px;
+    margin-top: 19px;
+    font-size: 48px;
+}
+
+.anime1{
+    width: 418px;
+    height: 278px;
+    margin-top: 21px;
+    margin-left: 113px;
+}
+.anime2{
+    width: 418px;
+    height: 278px;
+    margin-top: 21px;
+    margin-left: 17px;
+}
+.anime3{
+    width: 418px;
+    height: 278px;
+    margin-top: 21px;
+    margin-left: 17px;
+}
+.Highlightss{
+    margin-left: 64px;
+    margin-top: -569px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 25px;
+    margin-top: 3px;
+    margin-left: 113px;
+    margin-bottom: 0%;
+
+}
+
+.Highlightss1{
+    margin-left: 64px;
+    margin-top: -569px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 25px;
+    margin-top: -27px;
+    margin-left: 554px;
+    margin-bottom: 0%;
+}
+.Highlightss2{
+    margin-left: 64px;
+    margin-top: -569px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 25px;
+    margin-top: -28px;
+    margin-left: 992px;
+    margin-bottom: 0%;
+
+}
+
+
+.High{
+    margin-left: 64px;
+    margin-top: -569px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 14px;
+    margin-top: 40px;
+    margin-left: 113px;
+
+}
+
+.High1{
+    margin-left: 64px;
+    margin-top: -569px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 14px;
+    margin-top: -30px;
+    margin-left: 560px;
+    margin-bottom: 0%;
+}
+.High2{
+    margin-left: 64px;
+    margin-top: -569px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 14px;
+    margin-top: -16px;
+    margin-left: 1001px;
+    margin-bottom: 0%;
+}
+.learnmore11{
+    color: rgb(255, 255, 255);
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 109px;
+    margin-top: 45px;
+    font-size: 15px;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+
+.learnmore11:hover{
+    color: rgb(74, 74, 255);
+}
+.learnmore22{
+    color: rgb(255, 255, 255);
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 355px;
+    margin-top: 45px;
+    font-size: 15px;
+    background-color: transparent;
+    border-color: transparent;
+}
+.learnmore22:hover{
+    color: rgb(74, 74, 255);
+}
+
+.learnmore33{
+    color: rgb(255, 255, 255);
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 359px;
+    margin-top: 45px;
+    font-size: 15px;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.learnmore33:hover{
+    color: rgb(74, 74, 255);
+}
+
+.OneTopia{
+    color: #ffffff;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 104px;
+    margin-top: 120px;
+    font-size: larger;
+}
+
+
+.line3{
+    color:grey;
+    margin-top: -24px;
+    margin-left: 103px;
+}
+
+.Relentless{
+    color: #ffffff;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 102px;
+    margin-top: 49px;
+    font-size: 48px;
+    margin-bottom: 0%;
+}
+
+.OxygenOS{
+    
+    
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-left: 105px;
+    margin-bottom: -43px;
+}
+.Evolved{
+    color: #ffffff;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 102px;
+    margin-top: 49px;
+    font-size: 48px;
+    margin-bottom: 0%;
+
+}
+
+.bluepic{
+    width: 860px;
+    height: 450px;
+    margin-top: -101px;
+    margin-left: 557px;
+}
+
+.expevolved{
+   
+    
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 14px;
+    margin-top: -105px;
+    margin-left: 104px;
+}
+.expevolved2{
+   
+    
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 14px;
+    margin-top: -6px;
+    margin-left: 104px;
+}
+.expevolved3{
+   
+    
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 14px;
+    margin-top: -6px;
+    margin-left: 104px;
+}
+
+
+.learnmore55{
+    color: rgb(255, 255, 255);
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 106px;
+    margin-top: 54px;
+    font-size: 14px;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.learnmore55:hover{
+    color: rgb(74, 74, 255);
+
+}
+
+.camerapic{
+    width: 860px;
+    height: 450px;
+    margin-top: 77px;
+    margin-left: 98px;
+}
+
+.Moment{
+   
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 21px;
+    margin-top: -441px;
+    margin-left: 992px;
+    margin-bottom: 0%;
+}
+
+.camera{
+    color: #ffffff;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 989px;
+    margin-top: 16px;
+    font-size: 48px;
+    margin-bottom: 0%;
+}
+.camera2{
+    color: #ffffff;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 989px;
+    margin-top: 16px;
+    font-size: 48px;
+    margin-bottom: 0%;
+}
+.camera3{
+    color: #ffffff;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 989px;
+    margin-top: 16px;
+    font-size: 48px;
+    margin-bottom: 0%;
+}
+
+
+
+.cam{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 14px;
+    margin-top: 89px;
+    margin-left: 989px;
+    margin-bottom: 0%;
+}
+.cam2{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 14px;
+    margin-top: 6px;
+    margin-left: 989px;
+    margin-bottom: 0%;
+}
+.cam3{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 14px;
+    margin-top: 6px;
+    margin-left: 989px;
+    margin-bottom: 0%;
+}
+.cam4{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 14px;
+    margin-top: 6px;
+    margin-left: 989px;
+    margin-bottom: 0%;
+}
+.learnmorecam{
+
+    color: rgb(255, 255, 255);
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 989px;
+    margin-top: 37px;
+    font-size: small;
+    }
+    
+.learnmorecam:hover{
+        color: rgb(74, 74, 255);
+
+}
+
+.support{
+    color: rgb(166, 90, 90);
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 104px;
+    margin-top: 56px;
+    font-size: larger;
+}
+.line4{
+    color: grey;
+    margin-top: 49px;
+    margin-left: 103px;
+}
+
+.viewmore {
+    color: rgb(0, 0, 0);
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 1326px;
+    margin-top: -56px;
+    font-size: 15px;
+}
+.plus2 {
+    color: rgb(255, 0, 0);
+    margin-left: 1400px;
+    margin-top: -39px;
+    font-size: 26px;
+}
+
+.sb1{
+    color: #010101;
+    width: 648px;
+    height: 400px;
+    margin-top: 119px;
+    margin-left: 97px;
+    background-color: #f8f8f8;
+}
+.sb2{
+    color: #010101;
+    width: 648px;
+    height: 400px;
+    margin-top: -400px;
+    margin-left: 773px;
+    background-color: #f8f8f8;
+}
+
+.msgbox{
+    height: 100%;
+    margin-left: 335px;
+}
+.oneonone{
+   
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 20px;
+    margin-top: -382px;
+    margin-left: 13px;
+    margin-bottom: 0%;
+}
+
+.Yourpersonal{
+    color: black;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 12px;
+    margin-top: 13px;
+    font-size: 30px;
+    margin-bottom: -2%;
+}
+.magboxsmall{
+    
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 14px;
+    margin-top: 151px;
+    margin-left: 15px;
+    margin-bottom: -150px;
+}
+.letschat{
+
+    color: rgb(0, 0, 0);
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 25px;
+    margin-top: 0px;
+    font-size: small;
+    }
+    
+.letschat:hover{
+        color: rgb(74, 74, 255);
+
+}
+.lets{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: -17px;
+    margin-top: 173px;
+    font-size: small;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+
+
+.btn1{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 30px;
+    height: 15px;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+
+
+.producthelp{
+    width: 202px;
+    height: 27px;
+    margin-top: 87px;
+    margin-left: 75px;
+    font-size: 20px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    background-color: transparent;
+    border-color: transparent;
+}
+.shoppingfaq{
+     
+    width: 204px;
+    height: 27px;
+    margin-top: 10px;
+    margin-left: 138px;
+    font-size: 20px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    background-color: transparent;
+    border-color: transparent;
+
+}
+.troubleshooting{
+    width: 197px;
+    height: 27px;
+    margin-top: 10px;
+    margin-left: 136px;
+    font-size: 20px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    background-color: transparent;
+    border-color: transparent;
+
+}
+.protectionplan{
+    width: 222px;
+    height: 27px;
+    margin-top: 10px;
+    margin-left: 112px;
+    font-size: 20px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    background-color: transparent;
+    border-color: transparent;
+
+}
+.fbuttn{
+    margin-top: -90px;  
+}
+
+
+.line5{
+    color: grey;
+    margin-top: 91px;
+    margin-left: 103px;
+    margin-bottom: -60px;
+
+}
+.line6{
+    color: grey;
+    margin-top: 413px;
+    margin-left: -16px;
+    margin-bottom: 0px;
+
+}
+.Stay{
+    color: rgb(255, 255, 255);
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-left: 104px;
+    margin-top: -1161px;
+    font-size: larger;
+
+}
+.lastpic{
+    margin-left: 103px;
+    margin-top: 141px;
+    width: 1321px;
+    height: 330px;  
+}
+.Phones{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 87px;
+    margin-left: 103px;
+    color: white;
+
+}
+
+
+.OnePlus12{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 94px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+
+}
+.OnePlus12R{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 94px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+
+}
+.OnePlusOpen{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 94px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+
+}
+.OnePlusNord{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 94px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: px;
+
+}
+
+.Accessories{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: -167px;
+    margin-left: 372px;
+    color: white;
+
+
+}
+.Audio{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 365px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+
+}
+.Tablet{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 365px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+
+}
+.Wearables{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 365px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+
+}
+.Case{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 365px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+
+}
+.power{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 365px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+
+}
+.Gear{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 365px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+
+}
+
+.Programs{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: -241px;
+    margin-left: 638px;
+    color: white;
+
+}
+.friends{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 631px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+
+}
+.Trade{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 631px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+}
+.StudentDiscount{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 631px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+}
+.Graduates{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 631px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+
+}
+.Employee{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 631px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+}
+.AffiliatesProgram{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 631px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+
+}
+.Support{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: -244px;
+    margin-left: 884px;
+    color: white;    
+    font-size: 15px;
+
+}
+.Storeapp{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 13px;
+    margin-left: 875px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+}
+.Shoppingg{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 13px;
+    margin-left: 875px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+}
+.Manuals{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 13px;
+    margin-left: 875px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+}
+.SoftwareUpgrade{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 13px;
+    margin-left: 875px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+
+}
+.RepairService{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 13px;
+    margin-left: 875px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+
+}
+.Company{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: -226px;
+    margin-left: 1123px;
+    color: white;
+
+}
+.Aboutoneplus{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 1117px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+
+}
+.Community{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 1117px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+
+}
+.Sustainability{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 1117px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+
+}
+.Accessibility{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 1117px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+}
+.Press{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 1117px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+
+}
+.FeaturedStories{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    margin-top: 8px;
+    margin-left: 1117px;
+    color: grey;
+    font-size: 13px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-bottom: 6px;
+
+}
+
+.payment{
+    width: 322px;
+    height: 39px;
+    margin-top: 50px;
+    margin-left: 97px;
+}
+.socialmedia{
+    width: 257px;
+    height: 42px;
+    margin-top: 50px;
+    margin-left: 545px;
+
+}
+
+.getsupport{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-weight: normal;
+    font-size: 15px;
+    margin-top: -37px;
+    margin-left: 1224px;
+    margin-bottom: -43px;
+
+}
+.line7{
+    color: #a5a5a5;
+    margin-top: 57px;
+    margin-left: 101px;
+
+}
+
+.privacybt{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: grey;
+    margin-top: 22px;
+    margin-left: 96px;
+    margin-bottom: -14px;
+    font-size: 11px;
+    background-color: transparent;
+    border-color: transparent;
+
+}
+.bar{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: grey;
+    margin-top: -1px;
+    margin-left: 191px;
+    margin-bottom: -14px;
+    font-size: 11px;
+
+}
+.stateprivacybt{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: grey;
+    margin-top: 1px;
+    margin-left: 203px;
+    margin-bottom: -14px;
+    font-size: 11px;
+    background-color: transparent;
+    border-color: transparent;
+}
+.bar2{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: grey;
+    margin-top: -1px;
+    margin-left: 322px;
+    margin-bottom: -14px;
+    font-size: 11px;
+}
+
+.personal{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: grey;
+    margin-top: 0px;
+    margin-left: 328px;
+    margin-bottom: -14px;
+    font-size: 11px;
+    background-color: transparent;
+    border-color: transparent;
+
+}
+.bar3{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: grey;
+    margin-top: -1px;
+    margin-left: 570px;
+    margin-bottom: -14px;
+    font-size: 11px;
+}
+.terms{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: grey;
+    margin-top: -1px;
+    margin-left: 573px;
+    margin-bottom: -14px;
+    font-size: 11px;
+    background-color: transparent;
+    border-color: transparent;
+
+
+}
+.bar4{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: grey;
+    margin-top: -1px;
+    margin-left: 662px;
+    margin-bottom: -14px;
+    font-size: 11px;
+}
+.sales{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: grey;
+    margin-top: -1px;
+    margin-left: 673px;
+    margin-bottom: -14px;
+    font-size: 11px;
+    background-color: transparent;
+    border-color: transparent;
+
+}
+.bar5{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: grey;
+    margin-top: -1px;
+    margin-left: 758px;
+    margin-bottom: -14px;
+    font-size: 11px;
+}
+.osrc{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: grey;
+    margin-top: 0px;
+    margin-left: 764px;
+    margin-bottom: -14px;
+    font-size: 11px;
+    background-color: transparent;
+    border-color: transparent;
+
+}
+.bar6{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: grey;
+    margin-top: -1px;
+    margin-left: 968px;
+    margin-bottom: -14px;
+    font-size: 11px;
+}
+.SiteMap{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: grey;
+    margin-top: 0px;
+    margin-left: 974px;
+    margin-bottom: -14px;
+    font-size: 11px;
+    background-color: transparent;
+    border-color: transparent;
+}
+.copyright{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: grey;
+    margin-top: 22px;
+    margin-left: 102px;
+    margin-bottom: -14px;
+    font-size: 12px;
+}
+.united{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: grey;
+    margin-top: -39px;
+    margin-left: 1243px;
+    margin-bottom: -14px;
+    font-size: 15px;
+
+}
+.world{
+    width: 40px;
+    height: 40px;
+    margin-top: -14px;
+    margin-left: 1397px;
+
+}
+.line60{
+    margin-top: 13px;
+    margin-left: 101px;
+    color: grey;
+}
+
+.strik{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(110, 110, 110);
+    margin-top: 5px;
+    margin-left: 5px;
+
+}
+
+.fromm{
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    color: rgb(110, 110, 110);
+    margin-top: 16px;
+    margin-left: 1139px;
+}
+.button555{
+    
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    margin-left: 12px;
+    height: 29px;
+    width: 70px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    border-color: transparent;
+    margin-top: 0px;
+    margin-left: 1147px;
+    font-weight: 100px;
+    font-size: 14px;
+    background-color: rgb(0, 0, 0);
+}
+
+.learnmore555{
+    margin-top: -23px;
+    margin-left: 1230px;
+    color: rgb(45, 45, 45);
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    height: 2px;
+    width: 80px;
+    font-size: small;
+}
+
+.learnmore555:hover{
+    color: rgb(74, 74, 255);
+}
+.hid{
+    width: 25px;
+    height: 38px;
+    margin-top: -29px;
+    margin-left: 301px;
+    background-color: #ffffff;
+}
+.fix{
+    position: fixed;
+    color: rgb(255, 255, 255);
+    border-radius: 42px;
+    height: 48px;
+    width: 48px;
+    font-family: 'OnePlus Sans Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif, system-ui;
+    border-color: transparent;
+    margin-top: 118px;
+    margin-left: 1402px;
+    font-weight: 100px;
+    font-size: 14px;
+    background-color: rgb(0, 0, 0);
+
+}
+.fiximg{
+    width: 50px;
+    height: 50px;
+    margin-top: -3px;
+    margin-left: -9px;
+
+}
+
+
+
+
+
+
+
+.body{
+    margin: 0%;
+}
+
